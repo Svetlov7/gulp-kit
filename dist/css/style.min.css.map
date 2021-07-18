@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","base/base.scss"],"names":[],"mappings":"AACA,IAAA,CACE,UAAA,CCFG,IAAI,CDGT","file":"style.min.css","sourcesContent":["@import \"base/base\";\nbody {\n  background: $bg;\n}\n","$bg: blue;\n"]}
